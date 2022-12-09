@@ -1,3 +1,14 @@
+<h1>Vegan</h1>
+
+Un vegan ne mange et n'utilise aucun produit à base de matière animale. Il mange : 
+
+Légumes
+Fruits
+Noix
+Produits à base de soja
+
+Menus types
+
 Lundi :
 Velouté de patates douces et carottes au lait de coco
 Mac&Cheese vegan
@@ -22,3 +33,6 @@ Vendredi :
 Carpaccio de betteraves
 Bowl de chou-fleur Teriyaki
 Pudding aux graines de chia et dattes
+
+
+

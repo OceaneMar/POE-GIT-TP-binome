@@ -1,3 +1,16 @@
+<h1>Vegetarien</h1>
+
+Les végétariens ne mange pas d'animaux ou de produits nécessitant la mort d'animaux. Ils mangent :
+
+Céréales
+Fruits
+Légumes
+Noix
+Oeufs
+Lait
+
+Menus types 
+
 Lundi :
 Tartare de butternut crue
 Salade d’hiver aux lentilles et oranges sanguines
@@ -22,3 +35,6 @@ Vendredi :
 Soupe de carottes et panais
 Blé, topinambours rôtis, yaourt à l’orange
 Salade de fruits d’automne
+
+
+
